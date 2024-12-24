@@ -1,0 +1,19 @@
+{
+  "name": "com.mikeschweitzer.websocket",
+  "version": "2.0.4",
+  "displayName": "WebSocket Client",
+  "description": "Simple, flexible WebSocket client. Add the WebSocketConnection MonoBehaviour anywhere in your scene.",
+  "license": "Apache 2.0",
+  "unity": "2019.4",
+  "keywords": [
+    "web",
+    "socket",
+    "websocket",
+    "ws"
+  ],
+  "author": {
+    "name": "Mike Schweitzer",
+    "email": "mike@mikeschweitzer.com",
+    "url": "https://github.com/mikerochip/unity-websocket"
+  }
+}

@@ -1,0 +1,4058 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "DisplayName": null,
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226
+      ],
+      "OverwriteOutputs": false,
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/globalgamemanagers",
+      "DisplayName": "Copying globalgamemanagers",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/globalgamemanagers"
+      ],
+      "DebugActionIndex": 1
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/globalgamemanagers.assets",
+      "DisplayName": "Copying globalgamemanagers.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers.assets"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/globalgamemanagers.assets"
+      ],
+      "DebugActionIndex": 2
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/globalgamemanagers.assets.resS",
+      "DisplayName": "Copying globalgamemanagers.assets.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers.assets.resS"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/globalgamemanagers.assets.resS"
+      ],
+      "DebugActionIndex": 3
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/level0",
+      "DisplayName": "Copying level0",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/OSXUniversal/Data/level0"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/level0"
+      ],
+      "DebugActionIndex": 4
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/level0.resS",
+      "DisplayName": "Copying level0.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/OSXUniversal/Data/level0.resS"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/level0.resS"
+      ],
+      "DebugActionIndex": 5
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Resources/unity_builtin_extra",
+      "DisplayName": "Copying unity_builtin_extra",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/OSXUniversal/Data/Resources/unity_builtin_extra"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Resources/unity_builtin_extra"
+      ],
+      "DebugActionIndex": 6
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/RuntimeInitializeOnLoads.json",
+      "DisplayName": "Copying RuntimeInitializeOnLoads.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/OSXUniversal/Data/RuntimeInitializeOnLoads.json"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/RuntimeInitializeOnLoads.json"
+      ],
+      "DebugActionIndex": 7
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/ScriptingAssemblies.json",
+      "DisplayName": "Copying ScriptingAssemblies.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/OSXUniversal/Data/ScriptingAssemblies.json"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/ScriptingAssemblies.json"
+      ],
+      "DebugActionIndex": 8
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/sharedassets0.assets",
+      "DisplayName": "Copying sharedassets0.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/sharedassets0.assets"
+      ],
+      "DebugActionIndex": 9
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/sharedassets0.assets.resS",
+      "DisplayName": "Copying sharedassets0.assets.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets.resS"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/sharedassets0.assets.resS"
+      ],
+      "DebugActionIndex": 10
+    },
+    {
+      "Annotation": "WriteText Library/Bee/artifacts/csharpactions/boot.config_l6pt.info",
+      "DisplayName": "Writing boot.config_l6pt.info",
+      "ActionType": "WriteFile",
+      "PayloadOffset": 83,
+      "PayloadLength": 16185,
+      "PayloadDebugContentSnippet": "{\"System.Object\":null,\"Bee.Tun",
+      "Inputs": [],
+      "Outputs": [
+        "Library/Bee/artifacts/csharpactions/boot.config_l6pt.info"
+      ],
+      "DebugActionIndex": 11
+    },
+    {
+      "Annotation": "AddBootConfigGUID Library/Bee/artifacts/MacStandalonePlayerBuildProgram/boot.config",
+      "DisplayName": "AddBootConfigGUID boot",
+      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacStandalonePlayerBuildProgram.exe\" \"/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Bee:/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline\" invoke_static_method \"Library/Bee/artifacts/csharpactions/boot.config_l6pt.info\"",
+      "Inputs": [
+        "Library/PlayerDataCache/OSXUniversal/Data/boot.config",
+        "Library/PlayerDataCache/OSXUniversal/Data/boot.config",
+        "Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers",
+        "Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers.assets",
+        "Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers.assets.resS",
+        "Library/PlayerDataCache/OSXUniversal/Data/level0",
+        "Library/PlayerDataCache/OSXUniversal/Data/level0.resS",
+        "Library/PlayerDataCache/OSXUniversal/Data/Resources/unity_builtin_extra",
+        "Library/PlayerDataCache/OSXUniversal/Data/RuntimeInitializeOnLoads.json",
+        "Library/PlayerDataCache/OSXUniversal/Data/ScriptingAssemblies.json",
+        "Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets",
+        "Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets.resS",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.AIModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.ARModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.AccessibilityModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.AndroidJNIModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.AnimationModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.AssetBundleModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.AudioModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.ClothModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.ClusterInputModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.ClusterRendererModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.ContentLoadModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.CoreModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.CrashReportingModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.DSPGraphModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.DirectorModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.GIModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.GameCenterModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.GridModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.HotReloadModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.IMGUIModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.ImageConversionModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.InputLegacyModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.InputModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.JSONSerializeModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.LocalizationModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.ParticleSystemModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.PerformanceReportingModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.Physics2DModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.PhysicsModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.ProfilerModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.PropertiesModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.ScreenCaptureModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.SharedInternalsModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.SpriteMaskModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.SpriteShapeModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.StreamingModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.SubstanceModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.SubsystemsModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.TLSModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.TerrainModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.TerrainPhysicsModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.TextRenderingModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.TilemapModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UIElementsModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UIModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UmbraModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityConnectModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityCurlModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityTestProtocolModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.VFXModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.VRModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.VehiclesModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.VideoModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.VirtualTexturingModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.dll",
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/UniTask.TextMeshPro.dll",
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/UniTask.DOTween.dll",
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/UniTask.Addressables.dll",
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/UniTask.Linq.dll",
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/MikeSchweitzer.WebSocket.dll",
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/UniRealtime.dll",
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/UniTask.dll",
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
+        "/Users/momo_utokyo/momo/unity/NLU/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "/Users/momo_utokyo/momo/unity/NLU/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/AOT/Newtonsoft.Json.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/Facades/netstandard.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/Mono.Security.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.ComponentModel.Composition.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Configuration.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Core.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Data.DataSetExtensions.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Data.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Drawing.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.EnterpriseServices.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.IO.Compression.FileSystem.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.IO.Compression.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Net.Http.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Numerics.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Runtime.Serialization.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Security.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.ServiceModel.Internals.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Transactions.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Xml.Linq.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Xml.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/mscorlib.dll",
+        "Library/Bee/Playerc7e03f65-inputdata.json",
+        "Library/Bee/artifacts/csharpactions/boot.config_l6pt.info",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.BuildTools.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Core.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.CSharpSupport.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.DotNet.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.NativeProgramSupport.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Stevedore.Program.exe",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.TinyProfiler2.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Toolchain.GNU.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Toolchain.LLVM.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Toolchain.VisualStudio.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Toolchain.Xcode.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Tools.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.TundraBackend.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.VisualStudioSolution.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/BeeBuildProgramCommon.Data.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/BeeBuildProgramCommon.Data.pdb",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/BeeBuildProgramCommon.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/BeeBuildProgramCommon.pdb",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/BeeLocalCacheTool",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Newtonsoft.Json.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/NiceIO.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/PlayerBuildProgramLibrary.Data.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/PlayerBuildProgramLibrary.Data.pdb",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/PlayerBuildProgramLibrary.pdb",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/ScriptCompilationBuildProgram.Data.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/ScriptCompilationBuildProgram.Data.pdb",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/ScriptCompilationBuildProgram.exe",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/ScriptCompilationBuildProgram.pdb",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/SharpYaml.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Api.Attributes.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Cecil.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Cecil.Mdb.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Cecil.Pdb.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Cecil.Rocks.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.IL2CPP.Api.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.IL2CPP.Bee.BuildLogic.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Linker.Api.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Options.dll"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/MacStandalonePlayerBuildProgram/boot.config"
+      ],
+      "ToBuildDependencies": [
+        11
+      ],
+      "OverwriteOutputs": false,
+      "AllowUnexpectedOutput": true,
+      "Env": [],
+      "DebugActionIndex": 12
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/boot.config",
+      "DisplayName": "Copying boot.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/MacStandalonePlayerBuildProgram/boot.config"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/boot.config"
+      ],
+      "ToBuildDependencies": [
+        12
+      ],
+      "DebugActionIndex": 13
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/.DS_Store",
+      "DisplayName": "Copying .DS_Store",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/.DS_Store"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/.DS_Store"
+      ],
+      "DebugActionIndex": 14
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/.DS_Store",
+      "DisplayName": "Copying .DS_Store",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/.DS_Store"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/.DS_Store"
+      ],
+      "DebugActionIndex": 15
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/.DS_Store",
+      "DisplayName": "Copying .DS_Store",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/.DS_Store"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/.DS_Store"
+      ],
+      "DebugActionIndex": 16
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Anger/676452bf1becae068fc7cbf1.wav",
+      "DisplayName": "Copying 676452bf1becae068fc7cbf1.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Anger/676452bf1becae068fc7cbf1.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Anger/676452bf1becae068fc7cbf1.wav"
+      ],
+      "DebugActionIndex": 17
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Anger/676452c193bbaad700ba7a5e.wav",
+      "DisplayName": "Copying 676452c193bbaad700ba7a5e.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Anger/676452c193bbaad700ba7a5e.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Anger/676452c193bbaad700ba7a5e.wav"
+      ],
+      "DebugActionIndex": 18
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Anger/676452c36e0554b32e9c3eef.wav",
+      "DisplayName": "Copying 676452c36e0554b32e9c3eef.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Anger/676452c36e0554b32e9c3eef.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Anger/676452c36e0554b32e9c3eef.wav"
+      ],
+      "DebugActionIndex": 19
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Anger/676452c4033bcf3a3e07437e.wav",
+      "DisplayName": "Copying 676452c4033bcf3a3e07437e.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Anger/676452c4033bcf3a3e07437e.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Anger/676452c4033bcf3a3e07437e.wav"
+      ],
+      "DebugActionIndex": 20
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676452c83f2e96056cf6a2ec.wav",
+      "DisplayName": "Copying 676452c83f2e96056cf6a2ec.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Disgust/676452c83f2e96056cf6a2ec.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676452c83f2e96056cf6a2ec.wav"
+      ],
+      "DebugActionIndex": 21
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676458b18b7da8abb517a989.wav",
+      "DisplayName": "Copying 676458b18b7da8abb517a989.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Disgust/676458b18b7da8abb517a989.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676458b18b7da8abb517a989.wav"
+      ],
+      "DebugActionIndex": 22
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676458b93efc84ab36933754.wav",
+      "DisplayName": "Copying 676458b93efc84ab36933754.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Disgust/676458b93efc84ab36933754.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676458b93efc84ab36933754.wav"
+      ],
+      "DebugActionIndex": 23
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676458cd8d594083c0a5987e.wav",
+      "DisplayName": "Copying 676458cd8d594083c0a5987e.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Disgust/676458cd8d594083c0a5987e.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676458cd8d594083c0a5987e.wav"
+      ],
+      "DebugActionIndex": 24
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676458d8952a73af375c0a30.wav",
+      "DisplayName": "Copying 676458d8952a73af375c0a30.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Disgust/676458d8952a73af375c0a30.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676458d8952a73af375c0a30.wav"
+      ],
+      "DebugActionIndex": 25
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676458dc9ecbd2dba5301ff2.wav",
+      "DisplayName": "Copying 676458dc9ecbd2dba5301ff2.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Disgust/676458dc9ecbd2dba5301ff2.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676458dc9ecbd2dba5301ff2.wav"
+      ],
+      "DebugActionIndex": 26
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676458e1fb7bee001c736878.wav",
+      "DisplayName": "Copying 676458e1fb7bee001c736878.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Disgust/676458e1fb7bee001c736878.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676458e1fb7bee001c736878.wav"
+      ],
+      "DebugActionIndex": 27
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Fear/676452bbdf372424ca3edb4a.wav",
+      "DisplayName": "Copying 676452bbdf372424ca3edb4a.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Fear/676452bbdf372424ca3edb4a.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Fear/676452bbdf372424ca3edb4a.wav"
+      ],
+      "DebugActionIndex": 28
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Fear/676452bd9fa1c9ec8003e6dc.wav",
+      "DisplayName": "Copying 676452bd9fa1c9ec8003e6dc.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Fear/676452bd9fa1c9ec8003e6dc.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Fear/676452bd9fa1c9ec8003e6dc.wav"
+      ],
+      "DebugActionIndex": 29
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Fear/676458c21bf1d5db95be9e50.wav",
+      "DisplayName": "Copying 676458c21bf1d5db95be9e50.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Fear/676458c21bf1d5db95be9e50.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Fear/676458c21bf1d5db95be9e50.wav"
+      ],
+      "DebugActionIndex": 30
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Fear/676458e6bdcdfc7dc314dc26.wav",
+      "DisplayName": "Copying 676458e6bdcdfc7dc314dc26.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Fear/676458e6bdcdfc7dc314dc26.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Fear/676458e6bdcdfc7dc314dc26.wav"
+      ],
+      "DebugActionIndex": 31
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/.DS_Store",
+      "DisplayName": "Copying .DS_Store",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Happiness/.DS_Store"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/.DS_Store"
+      ],
+      "DebugActionIndex": 32
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/676458a2270b7a8658217c83.wav",
+      "DisplayName": "Copying 676458a2270b7a8658217c83.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Happiness/676458a2270b7a8658217c83.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/676458a2270b7a8658217c83.wav"
+      ],
+      "DebugActionIndex": 33
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/676458cb3f2e96056cf6b507.wav",
+      "DisplayName": "Copying 676458cb3f2e96056cf6b507.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Happiness/676458cb3f2e96056cf6b507.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/676458cb3f2e96056cf6b507.wav"
+      ],
+      "DebugActionIndex": 34
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/676458d19c583fcbfd381a58.wav",
+      "DisplayName": "Copying 676458d19c583fcbfd381a58.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Happiness/676458d19c583fcbfd381a58.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/676458d19c583fcbfd381a58.wav"
+      ],
+      "DebugActionIndex": 35
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/676458da6b707581a6b05ef4.wav",
+      "DisplayName": "Copying 676458da6b707581a6b05ef4.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Happiness/676458da6b707581a6b05ef4.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/676458da6b707581a6b05ef4.wav"
+      ],
+      "DebugActionIndex": 36
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/676458dfd18aae93a6674ca6.wav",
+      "DisplayName": "Copying 676458dfd18aae93a6674ca6.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Happiness/676458dfd18aae93a6674ca6.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/676458dfd18aae93a6674ca6.wav"
+      ],
+      "DebugActionIndex": 37
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/676458e448672cfe82869a34.wav",
+      "DisplayName": "Copying 676458e448672cfe82869a34.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Happiness/676458e448672cfe82869a34.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/676458e448672cfe82869a34.wav"
+      ],
+      "DebugActionIndex": 38
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Sadness/6764589d9fa1c9ec8003fec4.wav",
+      "DisplayName": "Copying 6764589d9fa1c9ec8003fec4.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Sadness/6764589d9fa1c9ec8003fec4.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Sadness/6764589d9fa1c9ec8003fec4.wav"
+      ],
+      "DebugActionIndex": 39
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Sadness/676458a725a9861a2185ddfb.wav",
+      "DisplayName": "Copying 676458a725a9861a2185ddfb.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Sadness/676458a725a9861a2185ddfb.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Sadness/676458a725a9861a2185ddfb.wav"
+      ],
+      "DebugActionIndex": 40
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Sadness/676458afa7a9eb9eb701418b.wav",
+      "DisplayName": "Copying 676458afa7a9eb9eb701418b.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Sadness/676458afa7a9eb9eb701418b.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Sadness/676458afa7a9eb9eb701418b.wav"
+      ],
+      "DebugActionIndex": 41
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Sadness/676458cf9158c2b6437b6ec9.wav",
+      "DisplayName": "Copying 676458cf9158c2b6437b6ec9.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Sadness/676458cf9158c2b6437b6ec9.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Sadness/676458cf9158c2b6437b6ec9.wav"
+      ],
+      "DebugActionIndex": 42
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Sadness/676458d35a2339a33e7fd98b.wav",
+      "DisplayName": "Copying 676458d35a2339a33e7fd98b.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Sadness/676458d35a2339a33e7fd98b.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Sadness/676458d35a2339a33e7fd98b.wav"
+      ],
+      "DebugActionIndex": 43
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Sadness/676458d78b7da8abb517a9ae.wav",
+      "DisplayName": "Copying 676458d78b7da8abb517a9ae.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Sadness/676458d78b7da8abb517a9ae.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Sadness/676458d78b7da8abb517a9ae.wav"
+      ],
+      "DebugActionIndex": 44
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Surprise/676458b3ea3a5ef4f9493440.wav",
+      "DisplayName": "Copying 676458b3ea3a5ef4f9493440.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Surprise/676458b3ea3a5ef4f9493440.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Surprise/676458b3ea3a5ef4f9493440.wav"
+      ],
+      "DebugActionIndex": 45
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Surprise/676458bd1becae068fc7dc17.wav",
+      "DisplayName": "Copying 676458bd1becae068fc7dc17.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Surprise/676458bd1becae068fc7dc17.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Surprise/676458bd1becae068fc7dc17.wav"
+      ],
+      "DebugActionIndex": 46
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Surprise/676458c4dc858638c2c71152.wav",
+      "DisplayName": "Copying 676458c4dc858638c2c71152.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Surprise/676458c4dc858638c2c71152.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Surprise/676458c4dc858638c2c71152.wav"
+      ],
+      "DebugActionIndex": 47
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Surprise/676458c7df372424ca3ee90b.wav",
+      "DisplayName": "Copying 676458c7df372424ca3ee90b.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Surprise/676458c7df372424ca3ee90b.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Surprise/676458c7df372424ca3ee90b.wav"
+      ],
+      "DebugActionIndex": 48
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Surprise/676458c9ba1083a9e599f801.wav",
+      "DisplayName": "Copying 676458c9ba1083a9e599f801.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Surprise/676458c9ba1083a9e599f801.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Surprise/676458c9ba1083a9e599f801.wav"
+      ],
+      "DebugActionIndex": 49
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Surprise/676458dd3efc84ab369337a2.wav",
+      "DisplayName": "Copying 676458dd3efc84ab369337a2.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Emotion/Surprise/676458dd3efc84ab369337a2.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Surprise/676458dd3efc84ab369337a2.wav"
+      ],
+      "DebugActionIndex": 50
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/.DS_Store",
+      "DisplayName": "Copying .DS_Store",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/.DS_Store"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/.DS_Store"
+      ],
+      "DebugActionIndex": 51
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b3ed64f2b03fd9430d2.wav",
+      "DisplayName": "Copying 67645b3ed64f2b03fd9430d2.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b3ed64f2b03fd9430d2.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b3ed64f2b03fd9430d2.wav"
+      ],
+      "DebugActionIndex": 52
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b43bd4c678ac0ce9ced.wav",
+      "DisplayName": "Copying 67645b43bd4c678ac0ce9ced.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b43bd4c678ac0ce9ced.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b43bd4c678ac0ce9ced.wav"
+      ],
+      "DebugActionIndex": 53
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b463ea98db1a52e3769.wav",
+      "DisplayName": "Copying 67645b463ea98db1a52e3769.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b463ea98db1a52e3769.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b463ea98db1a52e3769.wav"
+      ],
+      "DebugActionIndex": 54
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b4e6d571acbfea742f6.wav",
+      "DisplayName": "Copying 67645b4e6d571acbfea742f6.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b4e6d571acbfea742f6.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b4e6d571acbfea742f6.wav"
+      ],
+      "DebugActionIndex": 55
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b5dbdcdfc7dc314e25b.wav",
+      "DisplayName": "Copying 67645b5dbdcdfc7dc314e25b.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b5dbdcdfc7dc314e25b.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b5dbdcdfc7dc314e25b.wav"
+      ],
+      "DebugActionIndex": 56
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b61813051fcb96e94b3.wav",
+      "DisplayName": "Copying 67645b61813051fcb96e94b3.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b61813051fcb96e94b3.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b61813051fcb96e94b3.wav"
+      ],
+      "DebugActionIndex": 57
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b6448a551dc1ead0c24.wav",
+      "DisplayName": "Copying 67645b6448a551dc1ead0c24.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b6448a551dc1ead0c24.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b6448a551dc1ead0c24.wav"
+      ],
+      "DebugActionIndex": 58
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b22952a73af375c1065.wav",
+      "DisplayName": "Copying 67645b22952a73af375c1065.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Affirmation/67645b22952a73af375c1065.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b22952a73af375c1065.wav"
+      ],
+      "DebugActionIndex": 59
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b264bc62b0326120085.wav",
+      "DisplayName": "Copying 67645b264bc62b0326120085.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Affirmation/67645b264bc62b0326120085.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b264bc62b0326120085.wav"
+      ],
+      "DebugActionIndex": 60
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b29b34ba9cbf16d86e1.wav",
+      "DisplayName": "Copying 67645b29b34ba9cbf16d86e1.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Affirmation/67645b29b34ba9cbf16d86e1.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b29b34ba9cbf16d86e1.wav"
+      ],
+      "DebugActionIndex": 61
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b44ea3a5ef4f9493b39.wav",
+      "DisplayName": "Copying 67645b44ea3a5ef4f9493b39.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Affirmation/67645b44ea3a5ef4f9493b39.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b44ea3a5ef4f9493b39.wav"
+      ],
+      "DebugActionIndex": 62
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b4ab645745de9fc5315.wav",
+      "DisplayName": "Copying 67645b4ab645745de9fc5315.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Affirmation/67645b4ab645745de9fc5315.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b4ab645745de9fc5315.wav"
+      ],
+      "DebugActionIndex": 63
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b4f15a69b3f434f3362.wav",
+      "DisplayName": "Copying 67645b4f15a69b3f434f3362.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Affirmation/67645b4f15a69b3f434f3362.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b4f15a69b3f434f3362.wav"
+      ],
+      "DebugActionIndex": 64
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b524bc62b0326120141.wav",
+      "DisplayName": "Copying 67645b524bc62b0326120141.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Affirmation/67645b524bc62b0326120141.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b524bc62b0326120141.wav"
+      ],
+      "DebugActionIndex": 65
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b24f987fb9ffdaacced.wav",
+      "DisplayName": "Copying 67645b24f987fb9ffdaacced.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Negation/67645b24f987fb9ffdaacced.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b24f987fb9ffdaacced.wav"
+      ],
+      "DebugActionIndex": 66
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b273f2e96056cf6bc42.wav",
+      "DisplayName": "Copying 67645b273f2e96056cf6bc42.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Negation/67645b273f2e96056cf6bc42.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b273f2e96056cf6bc42.wav"
+      ],
+      "DebugActionIndex": 67
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b2cbd4c678ac0ce9cb9.wav",
+      "DisplayName": "Copying 67645b2cbd4c678ac0ce9cb9.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Negation/67645b2cbd4c678ac0ce9cb9.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b2cbd4c678ac0ce9cb9.wav"
+      ],
+      "DebugActionIndex": 68
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b32f987fb9ffdaaccfc.wav",
+      "DisplayName": "Copying 67645b32f987fb9ffdaaccfc.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Negation/67645b32f987fb9ffdaaccfc.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b32f987fb9ffdaaccfc.wav"
+      ],
+      "DebugActionIndex": 69
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b48ac46cdfd9369c66e.wav",
+      "DisplayName": "Copying 67645b48ac46cdfd9369c66e.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Negation/67645b48ac46cdfd9369c66e.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b48ac46cdfd9369c66e.wav"
+      ],
+      "DebugActionIndex": 70
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b4c6e0554b32e9c5ddd.wav",
+      "DisplayName": "Copying 67645b4c6e0554b32e9c5ddd.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Negation/67645b4c6e0554b32e9c5ddd.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b4c6e0554b32e9c5ddd.wav"
+      ],
+      "DebugActionIndex": 71
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b59d64f2b03fd943113.wav",
+      "DisplayName": "Copying 67645b59d64f2b03fd943113.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Negation/67645b59d64f2b03fd943113.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b59d64f2b03fd943113.wav"
+      ],
+      "DebugActionIndex": 72
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b5ab34ba9cbf16d8745.wav",
+      "DisplayName": "Copying 67645b5ab34ba9cbf16d8745.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Negation/67645b5ab34ba9cbf16d8745.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b5ab34ba9cbf16d8745.wav"
+      ],
+      "DebugActionIndex": 73
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b206d571acbfea7423e.wav",
+      "DisplayName": "Copying 67645b206d571acbfea7423e.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Question/67645b206d571acbfea7423e.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b206d571acbfea7423e.wav"
+      ],
+      "DebugActionIndex": 74
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b2a952a73af375c107d.wav",
+      "DisplayName": "Copying 67645b2a952a73af375c107d.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Question/67645b2a952a73af375c107d.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b2a952a73af375c107d.wav"
+      ],
+      "DebugActionIndex": 75
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b3320bbda9c6815575d.wav",
+      "DisplayName": "Copying 67645b3320bbda9c6815575d.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Question/67645b3320bbda9c6815575d.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b3320bbda9c6815575d.wav"
+      ],
+      "DebugActionIndex": 76
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b3c3b1311fb56fdce99.wav",
+      "DisplayName": "Copying 67645b3c3b1311fb56fdce99.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Question/67645b3c3b1311fb56fdce99.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b3c3b1311fb56fdce99.wav"
+      ],
+      "DebugActionIndex": 77
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b3d8d594083c0a5a2c5.wav",
+      "DisplayName": "Copying 67645b3d8d594083c0a5a2c5.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Question/67645b3d8d594083c0a5a2c5.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b3d8d594083c0a5a2c5.wav"
+      ],
+      "DebugActionIndex": 78
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b5725a9861a2185f20c.wav",
+      "DisplayName": "Copying 67645b5725a9861a2185f20c.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Question/67645b5725a9861a2185f20c.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b5725a9861a2185f20c.wav"
+      ],
+      "DebugActionIndex": 79
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b62952ab17d4ee76dfe.wav",
+      "DisplayName": "Copying 67645b62952ab17d4ee76dfe.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Question/67645b62952ab17d4ee76dfe.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b62952ab17d4ee76dfe.wav"
+      ],
+      "DebugActionIndex": 80
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Unsure/67645b30296a98a5ddc768d9.wav",
+      "DisplayName": "Copying 67645b30296a98a5ddc768d9.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Unsure/67645b30296a98a5ddc768d9.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Unsure/67645b30296a98a5ddc768d9.wav"
+      ],
+      "DebugActionIndex": 81
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Unsure/67645b384bc62b03261200dc.wav",
+      "DisplayName": "Copying 67645b384bc62b03261200dc.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Unsure/67645b384bc62b03261200dc.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Unsure/67645b384bc62b03261200dc.wav"
+      ],
+      "DebugActionIndex": 82
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Unsure/67645b3aba140441405a40e3.wav",
+      "DisplayName": "Copying 67645b3aba140441405a40e3.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Unsure/67645b3aba140441405a40e3.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Unsure/67645b3aba140441405a40e3.wav"
+      ],
+      "DebugActionIndex": 83
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Unsure/67645b53e9c9c5e9848a9572.wav",
+      "DisplayName": "Copying 67645b53e9c9c5e9848a9572.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Unsure/67645b53e9c9c5e9848a9572.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Unsure/67645b53e9c9c5e9848a9572.wav"
+      ],
+      "DebugActionIndex": 84
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Unsure/67645b5520bbda9c681557b3.wav",
+      "DisplayName": "Copying 67645b5520bbda9c681557b3.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Unsure/67645b5520bbda9c681557b3.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Unsure/67645b5520bbda9c681557b3.wav"
+      ],
+      "DebugActionIndex": 85
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Unsure/67645b5c41272807adf553ff.wav",
+      "DisplayName": "Copying 67645b5c41272807adf553ff.wav",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Assets/StreamingAssets/Sounds6/Intention/Unsure/67645b5c41272807adf553ff.wav"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Unsure/67645b5c41272807adf553ff.wav"
+      ],
+      "DebugActionIndex": 86
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll",
+      "DisplayName": "Copying UnityEngine.AIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.AIModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll"
+      ],
+      "DebugActionIndex": 87
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll",
+      "DisplayName": "Copying UnityEngine.ARModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.ARModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll"
+      ],
+      "DebugActionIndex": 88
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll",
+      "DisplayName": "Copying UnityEngine.AccessibilityModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.AccessibilityModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll"
+      ],
+      "DebugActionIndex": 89
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+      "DisplayName": "Copying UnityEngine.AndroidJNIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.AndroidJNIModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.AndroidJNIModule.dll"
+      ],
+      "DebugActionIndex": 90
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll",
+      "DisplayName": "Copying UnityEngine.AnimationModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.AnimationModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll"
+      ],
+      "DebugActionIndex": 91
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.dll",
+      "DisplayName": "Copying UnityEngine.AssetBundleModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.AssetBundleModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.dll"
+      ],
+      "DebugActionIndex": 92
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll",
+      "DisplayName": "Copying UnityEngine.AudioModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.AudioModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll"
+      ],
+      "DebugActionIndex": 93
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll",
+      "DisplayName": "Copying UnityEngine.ClothModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.ClothModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll"
+      ],
+      "DebugActionIndex": 94
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll",
+      "DisplayName": "Copying UnityEngine.ClusterInputModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.ClusterInputModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll"
+      ],
+      "DebugActionIndex": 95
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll",
+      "DisplayName": "Copying UnityEngine.ClusterRendererModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.ClusterRendererModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll"
+      ],
+      "DebugActionIndex": 96
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.ContentLoadModule.dll",
+      "DisplayName": "Copying UnityEngine.ContentLoadModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.ContentLoadModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.ContentLoadModule.dll"
+      ],
+      "DebugActionIndex": 97
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll",
+      "DisplayName": "Copying UnityEngine.CoreModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.CoreModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll"
+      ],
+      "DebugActionIndex": 98
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll",
+      "DisplayName": "Copying UnityEngine.CrashReportingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.CrashReportingModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll"
+      ],
+      "DebugActionIndex": 99
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.DSPGraphModule.dll",
+      "DisplayName": "Copying UnityEngine.DSPGraphModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.DSPGraphModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.DSPGraphModule.dll"
+      ],
+      "DebugActionIndex": 100
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll",
+      "DisplayName": "Copying UnityEngine.DirectorModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.DirectorModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll"
+      ],
+      "DebugActionIndex": 101
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.GIModule.dll",
+      "DisplayName": "Copying UnityEngine.GIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.GIModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.GIModule.dll"
+      ],
+      "DebugActionIndex": 102
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll",
+      "DisplayName": "Copying UnityEngine.GameCenterModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.GameCenterModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll"
+      ],
+      "DebugActionIndex": 103
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll",
+      "DisplayName": "Copying UnityEngine.GridModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.GridModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll"
+      ],
+      "DebugActionIndex": 104
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.dll",
+      "DisplayName": "Copying UnityEngine.HotReloadModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.HotReloadModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.dll"
+      ],
+      "DebugActionIndex": 105
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll",
+      "DisplayName": "Copying UnityEngine.IMGUIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.IMGUIModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll"
+      ],
+      "DebugActionIndex": 106
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll",
+      "DisplayName": "Copying UnityEngine.ImageConversionModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.ImageConversionModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll"
+      ],
+      "DebugActionIndex": 107
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.InputLegacyModule.dll",
+      "DisplayName": "Copying UnityEngine.InputLegacyModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.InputLegacyModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.InputLegacyModule.dll"
+      ],
+      "DebugActionIndex": 108
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll",
+      "DisplayName": "Copying UnityEngine.InputModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.InputModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll"
+      ],
+      "DebugActionIndex": 109
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll",
+      "DisplayName": "Copying UnityEngine.JSONSerializeModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.JSONSerializeModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll"
+      ],
+      "DebugActionIndex": 110
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.LocalizationModule.dll",
+      "DisplayName": "Copying UnityEngine.LocalizationModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.LocalizationModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.LocalizationModule.dll"
+      ],
+      "DebugActionIndex": 111
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+      "DisplayName": "Copying UnityEngine.ParticleSystemModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.ParticleSystemModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll"
+      ],
+      "DebugActionIndex": 112
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+      "DisplayName": "Copying UnityEngine.PerformanceReportingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.PerformanceReportingModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll"
+      ],
+      "DebugActionIndex": 113
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll",
+      "DisplayName": "Copying UnityEngine.Physics2DModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.Physics2DModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll"
+      ],
+      "DebugActionIndex": 114
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll",
+      "DisplayName": "Copying UnityEngine.PhysicsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.PhysicsModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll"
+      ],
+      "DebugActionIndex": 115
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.ProfilerModule.dll",
+      "DisplayName": "Copying UnityEngine.ProfilerModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.ProfilerModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.ProfilerModule.dll"
+      ],
+      "DebugActionIndex": 116
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.PropertiesModule.dll",
+      "DisplayName": "Copying UnityEngine.PropertiesModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.PropertiesModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.PropertiesModule.dll"
+      ],
+      "DebugActionIndex": 117
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+      "DisplayName": "Copying UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+      ],
+      "DebugActionIndex": 118
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+      "DisplayName": "Copying UnityEngine.ScreenCaptureModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.ScreenCaptureModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll"
+      ],
+      "DebugActionIndex": 119
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+      "DisplayName": "Copying UnityEngine.SharedInternalsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.SharedInternalsModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.dll"
+      ],
+      "DebugActionIndex": 120
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll",
+      "DisplayName": "Copying UnityEngine.SpriteMaskModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.SpriteMaskModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll"
+      ],
+      "DebugActionIndex": 121
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+      "DisplayName": "Copying UnityEngine.SpriteShapeModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.SpriteShapeModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.dll"
+      ],
+      "DebugActionIndex": 122
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.StreamingModule.dll",
+      "DisplayName": "Copying UnityEngine.StreamingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.StreamingModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.StreamingModule.dll"
+      ],
+      "DebugActionIndex": 123
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.dll",
+      "DisplayName": "Copying UnityEngine.SubstanceModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.SubstanceModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.dll"
+      ],
+      "DebugActionIndex": 124
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.SubsystemsModule.dll",
+      "DisplayName": "Copying UnityEngine.SubsystemsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.SubsystemsModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.SubsystemsModule.dll"
+      ],
+      "DebugActionIndex": 125
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.dll",
+      "DisplayName": "Copying UnityEngine.TLSModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.TLSModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.dll"
+      ],
+      "DebugActionIndex": 126
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll",
+      "DisplayName": "Copying UnityEngine.TerrainModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.TerrainModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll"
+      ],
+      "DebugActionIndex": 127
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+      "DisplayName": "Copying UnityEngine.TerrainPhysicsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.TerrainPhysicsModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll"
+      ],
+      "DebugActionIndex": 128
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+      "DisplayName": "Copying UnityEngine.TextCoreFontEngineModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.TextCoreFontEngineModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.TextCoreFontEngineModule.dll"
+      ],
+      "DebugActionIndex": 129
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+      "DisplayName": "Copying UnityEngine.TextCoreTextEngineModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.TextCoreTextEngineModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.TextCoreTextEngineModule.dll"
+      ],
+      "DebugActionIndex": 130
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll",
+      "DisplayName": "Copying UnityEngine.TextRenderingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.TextRenderingModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll"
+      ],
+      "DebugActionIndex": 131
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll",
+      "DisplayName": "Copying UnityEngine.TilemapModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.TilemapModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll"
+      ],
+      "DebugActionIndex": 132
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll",
+      "DisplayName": "Copying UnityEngine.UIElementsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UIElementsModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll"
+      ],
+      "DebugActionIndex": 133
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll",
+      "DisplayName": "Copying UnityEngine.UIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UIModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll"
+      ],
+      "DebugActionIndex": 134
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.dll",
+      "DisplayName": "Copying UnityEngine.UmbraModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UmbraModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.dll"
+      ],
+      "DebugActionIndex": 135
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
+      "DisplayName": "Copying UnityEngine.UnityAnalyticsCommonModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityAnalyticsCommonModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll"
+      ],
+      "DebugActionIndex": 136
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+      "DisplayName": "Copying UnityEngine.UnityAnalyticsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityAnalyticsModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll"
+      ],
+      "DebugActionIndex": 137
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll",
+      "DisplayName": "Copying UnityEngine.UnityConnectModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityConnectModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll"
+      ],
+      "DebugActionIndex": 138
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityCurlModule.dll",
+      "DisplayName": "Copying UnityEngine.UnityCurlModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityCurlModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityCurlModule.dll"
+      ],
+      "DebugActionIndex": 139
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+      "DisplayName": "Copying UnityEngine.UnityTestProtocolModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityTestProtocolModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityTestProtocolModule.dll"
+      ],
+      "DebugActionIndex": 140
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "DisplayName": "Copying UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+      ],
+      "DebugActionIndex": 141
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+      "DisplayName": "Copying UnityEngine.UnityWebRequestAudioModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestAudioModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll"
+      ],
+      "DebugActionIndex": 142
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+      "DisplayName": "Copying UnityEngine.UnityWebRequestModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll"
+      ],
+      "DebugActionIndex": 143
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+      "DisplayName": "Copying UnityEngine.UnityWebRequestTextureModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestTextureModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll"
+      ],
+      "DebugActionIndex": 144
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+      "DisplayName": "Copying UnityEngine.UnityWebRequestWWWModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestWWWModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll"
+      ],
+      "DebugActionIndex": 145
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.VFXModule.dll",
+      "DisplayName": "Copying UnityEngine.VFXModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.VFXModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.VFXModule.dll"
+      ],
+      "DebugActionIndex": 146
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll",
+      "DisplayName": "Copying UnityEngine.VRModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.VRModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll"
+      ],
+      "DebugActionIndex": 147
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll",
+      "DisplayName": "Copying UnityEngine.VehiclesModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.VehiclesModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll"
+      ],
+      "DebugActionIndex": 148
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll",
+      "DisplayName": "Copying UnityEngine.VideoModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.VideoModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll"
+      ],
+      "DebugActionIndex": 149
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+      "DisplayName": "Copying UnityEngine.VirtualTexturingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.VirtualTexturingModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.VirtualTexturingModule.dll"
+      ],
+      "DebugActionIndex": 150
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll",
+      "DisplayName": "Copying UnityEngine.WindModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll"
+      ],
+      "DebugActionIndex": 151
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.dll",
+      "DisplayName": "Copying UnityEngine.XRModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.dll"
+      ],
+      "DebugActionIndex": 152
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.dll",
+      "DisplayName": "Copying UnityEngine.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/mono/Managed/UnityEngine.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.dll"
+      ],
+      "DebugActionIndex": 153
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll",
+      "DisplayName": "Copying Assembly-CSharp.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll"
+      ],
+      "DebugActionIndex": 154
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UniTask.TextMeshPro.dll",
+      "DisplayName": "Copying UniTask.TextMeshPro.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/UniTask.TextMeshPro.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UniTask.TextMeshPro.dll"
+      ],
+      "DebugActionIndex": 155
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UniTask.DOTween.dll",
+      "DisplayName": "Copying UniTask.DOTween.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/UniTask.DOTween.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UniTask.DOTween.dll"
+      ],
+      "DebugActionIndex": 156
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UniTask.Addressables.dll",
+      "DisplayName": "Copying UniTask.Addressables.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/UniTask.Addressables.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UniTask.Addressables.dll"
+      ],
+      "DebugActionIndex": 157
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/Unity.VisualScripting.Core.dll",
+      "DisplayName": "Copying Unity.VisualScripting.Core.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/Unity.VisualScripting.Core.dll"
+      ],
+      "DebugActionIndex": 158
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll",
+      "DisplayName": "Copying UnityEngine.UI.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll"
+      ],
+      "DebugActionIndex": 159
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UniTask.Linq.dll",
+      "DisplayName": "Copying UniTask.Linq.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/UniTask.Linq.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UniTask.Linq.dll"
+      ],
+      "DebugActionIndex": 160
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/Unity.VisualScripting.Flow.dll",
+      "DisplayName": "Copying Unity.VisualScripting.Flow.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/Unity.VisualScripting.Flow.dll"
+      ],
+      "DebugActionIndex": 161
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/MikeSchweitzer.WebSocket.dll",
+      "DisplayName": "Copying MikeSchweitzer.WebSocket.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/MikeSchweitzer.WebSocket.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/MikeSchweitzer.WebSocket.dll"
+      ],
+      "DebugActionIndex": 162
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/Unity.Timeline.dll",
+      "DisplayName": "Copying Unity.Timeline.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/Unity.Timeline.dll"
+      ],
+      "DebugActionIndex": 163
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/Unity.TextMeshPro.dll",
+      "DisplayName": "Copying Unity.TextMeshPro.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/Unity.TextMeshPro.dll"
+      ],
+      "DebugActionIndex": 164
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UniRealtime.dll",
+      "DisplayName": "Copying UniRealtime.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/UniRealtime.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UniRealtime.dll"
+      ],
+      "DebugActionIndex": 165
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/UniTask.dll",
+      "DisplayName": "Copying UniTask.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/UniTask.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/UniTask.dll"
+      ],
+      "DebugActionIndex": 166
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/Unity.VisualScripting.State.dll",
+      "DisplayName": "Copying Unity.VisualScripting.State.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/Unity.VisualScripting.State.dll"
+      ],
+      "DebugActionIndex": 167
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
+      "DisplayName": "Copying Unity.VisualScripting.Antlr3.Runtime.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Users/momo_utokyo/momo/unity/NLU/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
+      ],
+      "DebugActionIndex": 168
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/Newtonsoft.Json.dll",
+      "DisplayName": "Copying Newtonsoft.Json.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Users/momo_utokyo/momo/unity/NLU/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/AOT/Newtonsoft.Json.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/Newtonsoft.Json.dll"
+      ],
+      "DebugActionIndex": 169
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/netstandard.dll",
+      "DisplayName": "Copying netstandard.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/Facades/netstandard.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/netstandard.dll"
+      ],
+      "DebugActionIndex": 170
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/Mono.Security.dll",
+      "DisplayName": "Copying Mono.Security.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/Mono.Security.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/Mono.Security.dll"
+      ],
+      "DebugActionIndex": 171
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/System.ComponentModel.Composition.dll",
+      "DisplayName": "Copying System.ComponentModel.Composition.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.ComponentModel.Composition.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/System.ComponentModel.Composition.dll"
+      ],
+      "DebugActionIndex": 172
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/System.Configuration.dll",
+      "DisplayName": "Copying System.Configuration.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Configuration.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/System.Configuration.dll"
+      ],
+      "DebugActionIndex": 173
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/System.Core.dll",
+      "DisplayName": "Copying System.Core.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Core.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/System.Core.dll"
+      ],
+      "DebugActionIndex": 174
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/System.Data.DataSetExtensions.dll",
+      "DisplayName": "Copying System.Data.DataSetExtensions.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Data.DataSetExtensions.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/System.Data.DataSetExtensions.dll"
+      ],
+      "DebugActionIndex": 175
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/System.Data.dll",
+      "DisplayName": "Copying System.Data.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Data.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/System.Data.dll"
+      ],
+      "DebugActionIndex": 176
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/System.Drawing.dll",
+      "DisplayName": "Copying System.Drawing.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Drawing.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/System.Drawing.dll"
+      ],
+      "DebugActionIndex": 177
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/System.EnterpriseServices.dll",
+      "DisplayName": "Copying System.EnterpriseServices.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.EnterpriseServices.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/System.EnterpriseServices.dll"
+      ],
+      "DebugActionIndex": 178
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/System.IO.Compression.FileSystem.dll",
+      "DisplayName": "Copying System.IO.Compression.FileSystem.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.IO.Compression.FileSystem.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/System.IO.Compression.FileSystem.dll"
+      ],
+      "DebugActionIndex": 179
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/System.IO.Compression.dll",
+      "DisplayName": "Copying System.IO.Compression.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.IO.Compression.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/System.IO.Compression.dll"
+      ],
+      "DebugActionIndex": 180
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/System.Net.Http.dll",
+      "DisplayName": "Copying System.Net.Http.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Net.Http.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/System.Net.Http.dll"
+      ],
+      "DebugActionIndex": 181
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/System.Numerics.dll",
+      "DisplayName": "Copying System.Numerics.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Numerics.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/System.Numerics.dll"
+      ],
+      "DebugActionIndex": 182
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.dll",
+      "DisplayName": "Copying System.Runtime.Serialization.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Runtime.Serialization.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.dll"
+      ],
+      "DebugActionIndex": 183
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/System.Security.dll",
+      "DisplayName": "Copying System.Security.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Security.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/System.Security.dll"
+      ],
+      "DebugActionIndex": 184
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/System.ServiceModel.Internals.dll",
+      "DisplayName": "Copying System.ServiceModel.Internals.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.ServiceModel.Internals.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/System.ServiceModel.Internals.dll"
+      ],
+      "DebugActionIndex": 185
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/System.Transactions.dll",
+      "DisplayName": "Copying System.Transactions.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Transactions.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/System.Transactions.dll"
+      ],
+      "DebugActionIndex": 186
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/System.Xml.Linq.dll",
+      "DisplayName": "Copying System.Xml.Linq.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Xml.Linq.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/System.Xml.Linq.dll"
+      ],
+      "DebugActionIndex": 187
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/System.Xml.dll",
+      "DisplayName": "Copying System.Xml.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.Xml.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/System.Xml.dll"
+      ],
+      "DebugActionIndex": 188
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/System.dll",
+      "DisplayName": "Copying System.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/System.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/System.dll"
+      ],
+      "DebugActionIndex": 189
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/Managed/mscorlib.dll",
+      "DisplayName": "Copying mscorlib.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos/mscorlib.dll"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/Managed/mscorlib.dll"
+      ],
+      "DebugActionIndex": 190
+    },
+    {
+      "Annotation": "WriteText Library/Bee/artifacts/MacStandalonePlayerBuildProgram/Data/app.info",
+      "DisplayName": "Writing app.info",
+      "ActionType": "WriteFile",
+      "PayloadOffset": 16367,
+      "PayloadLength": 18,
+      "PayloadDebugContentSnippet": "DefaultCompany\nNLU",
+      "Inputs": [],
+      "Outputs": [
+        "Library/Bee/artifacts/MacStandalonePlayerBuildProgram/Data/app.info"
+      ],
+      "DebugActionIndex": 191
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/unity default resources",
+      "DisplayName": "Copying unity default resources",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/macos_x64arm64_player_nondevelopment_mono/UnityPlayer.app/Contents/Resources/unity default resources"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/unity default resources"
+      ],
+      "DebugActionIndex": 192
+    },
+    {
+      "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityPlayer.dylib_zhcy.info",
+      "DisplayName": "Writing UnityPlayer.dylib_zhcy.info",
+      "ActionType": "WriteFile",
+      "PayloadOffset": 16480,
+      "PayloadLength": 633,
+      "PayloadDebugContentSnippet": "{\"UnityEditor.OSXStandalone.Co",
+      "Inputs": [],
+      "Outputs": [
+        "Library/Bee/artifacts/csharpactions/UnityPlayer.dylib_zhcy.info"
+      ],
+      "DebugActionIndex": 193
+    },
+    {
+      "Annotation": "MacOSCodeSignDylibCopy Build.app/Contents/Frameworks/UnityPlayer.dylib",
+      "DisplayName": "MacOSCodeSignDylibCopy UnityPlayer",
+      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacStandalonePlayerBuildProgram.exe\" \"/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Bee:/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline\" invoke_static_method \"Library/Bee/artifacts/csharpactions/UnityPlayer.dylib_zhcy.info\"",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/macos_x64arm64_player_nondevelopment_mono/UnityPlayer.app/Contents/Frameworks/UnityPlayer.dylib",
+        "Library/Bee/artifacts/csharpactions/UnityPlayer.dylib_zhcy.info",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacOSCodeSigning.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacOSCodeSigning.pdb",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacStandalonePlayerBuildProgram.Data.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacStandalonePlayerBuildProgram.Data.pdb",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacStandalonePlayerBuildProgram.exe",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacStandalonePlayerBuildProgram.pdb",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/modules.asset",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Newtonsoft.Json.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/NiceIO.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.iOS.Extensions.Xcode.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.iOS.Extensions.Xcode.pdb",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.pdb"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Frameworks/UnityPlayer.dylib"
+      ],
+      "ToBuildDependencies": [
+        193
+      ],
+      "OverwriteOutputs": false,
+      "AllowUnexpectedOutput": true,
+      "Env": [],
+      "DebugActionIndex": 194
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Frameworks/libMonoPosixHelper.dylib",
+      "DisplayName": "Copying libMonoPosixHelper.dylib",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/macos_x64arm64_player_nondevelopment_mono/UnityPlayer.app/Contents/Frameworks/libMonoPosixHelper.dylib"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Frameworks/libMonoPosixHelper.dylib"
+      ],
+      "DebugActionIndex": 195
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Frameworks/libmonobdwgc-2.0.dylib",
+      "DisplayName": "Copying libmonobdwgc-2.0.dylib",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/macos_x64arm64_player_nondevelopment_mono/UnityPlayer.app/Contents/Frameworks/libmonobdwgc-2.0.dylib"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Frameworks/libmonobdwgc-2.0.dylib"
+      ],
+      "DebugActionIndex": 196
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Frameworks/libmono-native.dylib",
+      "DisplayName": "Copying libmono-native.dylib",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/macos_x64arm64_player_nondevelopment_mono/UnityPlayer.app/Contents/Frameworks/libmono-native.dylib"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Frameworks/libmono-native.dylib"
+      ],
+      "DebugActionIndex": 197
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+      "DisplayName": "Copying Compat.browser",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser"
+      ],
+      "DebugActionIndex": 198
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+      "DisplayName": "Copying DefaultWsdlHelpGenerator.aspx",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "DebugActionIndex": 199
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config",
+      "DisplayName": "Copying machine.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc/mono/2.0/machine.config"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config"
+      ],
+      "DebugActionIndex": 200
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map",
+      "DisplayName": "Copying settings.map",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc/mono/2.0/settings.map"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map"
+      ],
+      "DebugActionIndex": 201
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config",
+      "DisplayName": "Copying web.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc/mono/2.0/web.config"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config"
+      ],
+      "DebugActionIndex": 202
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+      "DisplayName": "Copying Compat.browser",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser"
+      ],
+      "DebugActionIndex": 203
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+      "DisplayName": "Copying DefaultWsdlHelpGenerator.aspx",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "DebugActionIndex": 204
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config",
+      "DisplayName": "Copying machine.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc/mono/4.0/machine.config"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config"
+      ],
+      "DebugActionIndex": 205
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map",
+      "DisplayName": "Copying settings.map",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc/mono/4.0/settings.map"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map"
+      ],
+      "DebugActionIndex": 206
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config",
+      "DisplayName": "Copying web.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc/mono/4.0/web.config"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config"
+      ],
+      "DebugActionIndex": 207
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+      "DisplayName": "Copying Compat.browser",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser"
+      ],
+      "DebugActionIndex": 208
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+      "DisplayName": "Copying DefaultWsdlHelpGenerator.aspx",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "DebugActionIndex": 209
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config",
+      "DisplayName": "Copying machine.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc/mono/4.5/machine.config"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config"
+      ],
+      "DebugActionIndex": 210
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map",
+      "DisplayName": "Copying settings.map",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc/mono/4.5/settings.map"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map"
+      ],
+      "DebugActionIndex": 211
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config",
+      "DisplayName": "Copying web.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc/mono/4.5/web.config"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config"
+      ],
+      "DebugActionIndex": 212
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini",
+      "DisplayName": "Copying browscap.ini",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc/mono/browscap.ini"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini"
+      ],
+      "DebugActionIndex": 213
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/MonoBleedingEdge/etc/mono/config",
+      "DisplayName": "Copying config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc/mono/config"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/config"
+      ],
+      "DebugActionIndex": 214
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml",
+      "DisplayName": "Copying config.xml",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc/mono/mconfig/config.xml"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml"
+      ],
+      "DebugActionIndex": 215
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/Data/app.info",
+      "DisplayName": "Copying app.info",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/MacStandalonePlayerBuildProgram/Data/app.info"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/Data/app.info"
+      ],
+      "ToBuildDependencies": [
+        191
+      ],
+      "DebugActionIndex": 216
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/DefaultPreferences.plist",
+      "DisplayName": "Copying DefaultPreferences.plist",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/DefaultPreferences.plist"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/DefaultPreferences.plist"
+      ],
+      "DebugActionIndex": 217
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/MainMenu.nib/designable.nib",
+      "DisplayName": "Copying designable.nib",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Source/Player/MacPlayer/MacPlayerEntryPoint/Resources/MainMenu.nib/designable.nib"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/MainMenu.nib/designable.nib"
+      ],
+      "DebugActionIndex": 218
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/MainMenu.nib/keyedobjects.nib",
+      "DisplayName": "Copying keyedobjects.nib",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Source/Player/MacPlayer/MacPlayerEntryPoint/Resources/MainMenu.nib/keyedobjects.nib"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/MainMenu.nib/keyedobjects.nib"
+      ],
+      "DebugActionIndex": 219
+    },
+    {
+      "Annotation": "WriteText Build.app/Contents/Info.plist",
+      "DisplayName": "Writing Info.plist",
+      "ActionType": "WriteFile",
+      "PayloadOffset": 17174,
+      "PayloadLength": 1635,
+      "PayloadDebugContentSnippet": "<?xml version=\"1.0\" encoding=\"",
+      "Inputs": [],
+      "Outputs": [
+        "Build.app/Contents/Info.plist"
+      ],
+      "DebugActionIndex": 220
+    },
+    {
+      "Annotation": "WriteText Library/Bee/artifacts/csharpactions/PrivacyInfo.xcprivacy_kghi.info",
+      "DisplayName": "Writing PrivacyInfo.xcprivacy_kghi.info",
+      "ActionType": "WriteFile",
+      "PayloadOffset": 18908,
+      "PayloadLength": 782,
+      "PayloadDebugContentSnippet": "{\"System.String[]\":[\"/Applicat",
+      "Inputs": [],
+      "Outputs": [
+        "Library/Bee/artifacts/csharpactions/PrivacyInfo.xcprivacy_kghi.info"
+      ],
+      "DebugActionIndex": 221
+    },
+    {
+      "Annotation": "MergeApplePrivacyManifests Library/Bee/artifacts/MacStandalonePlayerBuildProgram/PrivacyInfo.xcprivacy (+1 other)",
+      "DisplayName": "Merging Apple Privacy Manifests",
+      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacStandalonePlayerBuildProgram.exe\" \"/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Bee:/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline\" invoke_static_method \"Library/Bee/artifacts/csharpactions/PrivacyInfo.xcprivacy_kghi.info\"",
+      "Inputs": [
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Tools/XCode/PrivacyInfo.xcprivacy",
+        "Library/Bee/artifacts/csharpactions/PrivacyInfo.xcprivacy_kghi.info",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacOSCodeSigning.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacOSCodeSigning.pdb",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacStandalonePlayerBuildProgram.Data.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacStandalonePlayerBuildProgram.Data.pdb",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacStandalonePlayerBuildProgram.exe",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacStandalonePlayerBuildProgram.pdb",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/modules.asset",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Newtonsoft.Json.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/NiceIO.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.iOS.Extensions.Xcode.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.iOS.Extensions.Xcode.pdb",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.pdb"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/MacStandalonePlayerBuildProgram/PrivacyInfo.xcprivacy",
+        "Library/Bee/artifacts/MacStandalonePlayerBuildProgram/ApplePrivacyManifestsMerge.txt"
+      ],
+      "ToBuildDependencies": [
+        221
+      ],
+      "OverwriteOutputs": false,
+      "AllowUnexpectedOutput": true,
+      "Env": [],
+      "DebugActionIndex": 222
+    },
+    {
+      "Annotation": "CopyFiles Build.app/Contents/Resources/PrivacyInfo.xcprivacy",
+      "DisplayName": "Copying PrivacyInfo.xcprivacy",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/MacStandalonePlayerBuildProgram/PrivacyInfo.xcprivacy"
+      ],
+      "Outputs": [
+        "Build.app/Contents/Resources/PrivacyInfo.xcprivacy"
+      ],
+      "ToBuildDependencies": [
+        222
+      ],
+      "DebugActionIndex": 223
+    },
+    {
+      "Annotation": "WriteText Library/Bee/artifacts/csharpactions/NLU_m4vx.info",
+      "DisplayName": "Writing NLU_m4vx.info",
+      "ActionType": "WriteFile",
+      "PayloadOffset": 19771,
+      "PayloadLength": 18796,
+      "PayloadDebugContentSnippet": "{\"MacOSCodeSignBundleInPlace+D",
+      "Inputs": [],
+      "Outputs": [
+        "Library/Bee/artifacts/csharpactions/NLU_m4vx.info"
+      ],
+      "DebugActionIndex": 224
+    },
+    {
+      "Annotation": "MacOSCodeSignBundleInPlace Build.app/Contents/MacOS/NLU (+1 other)",
+      "DisplayName": "MacOSCodeSignBundleInPlace NLU",
+      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacStandalonePlayerBuildProgram.exe\" \"/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Bee:/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline\" invoke_static_method \"Library/Bee/artifacts/csharpactions/NLU_m4vx.info\"",
+      "Inputs": [
+        "Build.app/Contents/Resources/Data/globalgamemanagers",
+        "Build.app/Contents/Resources/Data/globalgamemanagers.assets",
+        "Build.app/Contents/Resources/Data/globalgamemanagers.assets.resS",
+        "Build.app/Contents/Resources/Data/level0",
+        "Build.app/Contents/Resources/Data/level0.resS",
+        "Build.app/Contents/Resources/Data/Resources/unity_builtin_extra",
+        "Build.app/Contents/Resources/Data/RuntimeInitializeOnLoads.json",
+        "Build.app/Contents/Resources/Data/ScriptingAssemblies.json",
+        "Build.app/Contents/Resources/Data/sharedassets0.assets",
+        "Build.app/Contents/Resources/Data/sharedassets0.assets.resS",
+        "Build.app/Contents/Resources/Data/boot.config",
+        "Build.app/Contents/Resources/Data/StreamingAssets/.DS_Store",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/.DS_Store",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/.DS_Store",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Anger/676452bf1becae068fc7cbf1.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Anger/676452c193bbaad700ba7a5e.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Anger/676452c36e0554b32e9c3eef.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Anger/676452c4033bcf3a3e07437e.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676452c83f2e96056cf6a2ec.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676458b18b7da8abb517a989.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676458b93efc84ab36933754.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676458cd8d594083c0a5987e.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676458d8952a73af375c0a30.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676458dc9ecbd2dba5301ff2.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Disgust/676458e1fb7bee001c736878.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Fear/676452bbdf372424ca3edb4a.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Fear/676452bd9fa1c9ec8003e6dc.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Fear/676458c21bf1d5db95be9e50.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Fear/676458e6bdcdfc7dc314dc26.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/.DS_Store",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/676458a2270b7a8658217c83.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/676458cb3f2e96056cf6b507.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/676458d19c583fcbfd381a58.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/676458da6b707581a6b05ef4.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/676458dfd18aae93a6674ca6.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Happiness/676458e448672cfe82869a34.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Sadness/6764589d9fa1c9ec8003fec4.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Sadness/676458a725a9861a2185ddfb.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Sadness/676458afa7a9eb9eb701418b.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Sadness/676458cf9158c2b6437b6ec9.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Sadness/676458d35a2339a33e7fd98b.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Sadness/676458d78b7da8abb517a9ae.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Surprise/676458b3ea3a5ef4f9493440.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Surprise/676458bd1becae068fc7dc17.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Surprise/676458c4dc858638c2c71152.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Surprise/676458c7df372424ca3ee90b.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Surprise/676458c9ba1083a9e599f801.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Emotion/Surprise/676458dd3efc84ab369337a2.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/.DS_Store",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b3ed64f2b03fd9430d2.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b43bd4c678ac0ce9ced.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b463ea98db1a52e3769.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b4e6d571acbfea742f6.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b5dbdcdfc7dc314e25b.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b61813051fcb96e94b3.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Acknowledgement/67645b6448a551dc1ead0c24.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b22952a73af375c1065.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b264bc62b0326120085.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b29b34ba9cbf16d86e1.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b44ea3a5ef4f9493b39.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b4ab645745de9fc5315.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b4f15a69b3f434f3362.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Affirmation/67645b524bc62b0326120141.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b24f987fb9ffdaacced.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b273f2e96056cf6bc42.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b2cbd4c678ac0ce9cb9.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b32f987fb9ffdaaccfc.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b48ac46cdfd9369c66e.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b4c6e0554b32e9c5ddd.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b59d64f2b03fd943113.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Negation/67645b5ab34ba9cbf16d8745.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b206d571acbfea7423e.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b2a952a73af375c107d.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b3320bbda9c6815575d.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b3c3b1311fb56fdce99.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b3d8d594083c0a5a2c5.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b5725a9861a2185f20c.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Question/67645b62952ab17d4ee76dfe.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Unsure/67645b30296a98a5ddc768d9.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Unsure/67645b384bc62b03261200dc.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Unsure/67645b3aba140441405a40e3.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Unsure/67645b53e9c9c5e9848a9572.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Unsure/67645b5520bbda9c681557b3.wav",
+        "Build.app/Contents/Resources/Data/StreamingAssets/Sounds6/Intention/Unsure/67645b5c41272807adf553ff.wav",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.ContentLoadModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.DSPGraphModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.GIModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.LocalizationModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.ProfilerModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.PropertiesModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.StreamingModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityCurlModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.VFXModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.dll",
+        "Build.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll",
+        "Build.app/Contents/Resources/Data/Managed/UniTask.TextMeshPro.dll",
+        "Build.app/Contents/Resources/Data/Managed/UniTask.DOTween.dll",
+        "Build.app/Contents/Resources/Data/Managed/UniTask.Addressables.dll",
+        "Build.app/Contents/Resources/Data/Managed/Unity.VisualScripting.Core.dll",
+        "Build.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll",
+        "Build.app/Contents/Resources/Data/Managed/UniTask.Linq.dll",
+        "Build.app/Contents/Resources/Data/Managed/Unity.VisualScripting.Flow.dll",
+        "Build.app/Contents/Resources/Data/Managed/MikeSchweitzer.WebSocket.dll",
+        "Build.app/Contents/Resources/Data/Managed/Unity.Timeline.dll",
+        "Build.app/Contents/Resources/Data/Managed/Unity.TextMeshPro.dll",
+        "Build.app/Contents/Resources/Data/Managed/UniRealtime.dll",
+        "Build.app/Contents/Resources/Data/Managed/UniTask.dll",
+        "Build.app/Contents/Resources/Data/Managed/Unity.VisualScripting.State.dll",
+        "Build.app/Contents/Resources/Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "Build.app/Contents/Resources/Data/Managed/Newtonsoft.Json.dll",
+        "Build.app/Contents/Resources/Data/Managed/netstandard.dll",
+        "Build.app/Contents/Resources/Data/Managed/Mono.Security.dll",
+        "Build.app/Contents/Resources/Data/Managed/System.ComponentModel.Composition.dll",
+        "Build.app/Contents/Resources/Data/Managed/System.Configuration.dll",
+        "Build.app/Contents/Resources/Data/Managed/System.Core.dll",
+        "Build.app/Contents/Resources/Data/Managed/System.Data.DataSetExtensions.dll",
+        "Build.app/Contents/Resources/Data/Managed/System.Data.dll",
+        "Build.app/Contents/Resources/Data/Managed/System.Drawing.dll",
+        "Build.app/Contents/Resources/Data/Managed/System.EnterpriseServices.dll",
+        "Build.app/Contents/Resources/Data/Managed/System.IO.Compression.FileSystem.dll",
+        "Build.app/Contents/Resources/Data/Managed/System.IO.Compression.dll",
+        "Build.app/Contents/Resources/Data/Managed/System.Net.Http.dll",
+        "Build.app/Contents/Resources/Data/Managed/System.Numerics.dll",
+        "Build.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.dll",
+        "Build.app/Contents/Resources/Data/Managed/System.Security.dll",
+        "Build.app/Contents/Resources/Data/Managed/System.ServiceModel.Internals.dll",
+        "Build.app/Contents/Resources/Data/Managed/System.Transactions.dll",
+        "Build.app/Contents/Resources/Data/Managed/System.Xml.Linq.dll",
+        "Build.app/Contents/Resources/Data/Managed/System.Xml.dll",
+        "Build.app/Contents/Resources/Data/Managed/System.dll",
+        "Build.app/Contents/Resources/Data/Managed/mscorlib.dll",
+        "Build.app/Contents/Resources/unity default resources",
+        "Build.app/Contents/Frameworks/UnityPlayer.dylib",
+        "Build.app/Contents/Frameworks/libMonoPosixHelper.dylib",
+        "Build.app/Contents/Frameworks/libmonobdwgc-2.0.dylib",
+        "Build.app/Contents/Frameworks/libmono-native.dylib",
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config",
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map",
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config",
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config",
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map",
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config",
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config",
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map",
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config",
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini",
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/config",
+        "Build.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml",
+        "Build.app/Contents/Resources/Data/app.info",
+        "Build.app/Contents/Resources/DefaultPreferences.plist",
+        "Build.app/Contents/Resources/MainMenu.nib/designable.nib",
+        "Build.app/Contents/Resources/MainMenu.nib/keyedobjects.nib",
+        "Build.app/Contents/Info.plist",
+        "Build.app/Contents/Resources/PrivacyInfo.xcprivacy",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Variations/macos_x64arm64_player_nondevelopment_mono/UnityPlayer.app/Contents/MacOS/UnityPlayer",
+        "Library/Bee/artifacts/csharpactions/NLU_m4vx.info",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacOSCodeSigning.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacOSCodeSigning.pdb",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacStandalonePlayerBuildProgram.Data.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacStandalonePlayerBuildProgram.Data.pdb",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacStandalonePlayerBuildProgram.exe",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacStandalonePlayerBuildProgram.pdb",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/modules.asset",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Newtonsoft.Json.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/NiceIO.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.iOS.Extensions.Xcode.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.iOS.Extensions.Xcode.pdb",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll",
+        "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.pdb"
+      ],
+      "Outputs": [
+        "Build.app/Contents/MacOS/NLU",
+        "Build.app/Contents/_CodeSignature/CodeResources"
+      ],
+      "ToBuildDependencies": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        192,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        223,
+        224
+      ],
+      "OverwriteOutputs": false,
+      "AllowUnexpectedOutput": true,
+      "Env": [],
+      "DebugActionIndex": 225
+    },
+    {
+      "Annotation": "Player",
+      "DisplayName": null,
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        192,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        222,
+        223,
+        225
+      ],
+      "OverwriteOutputs": false,
+      "DebugActionIndex": 226
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacOSCodeSigning.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacStandalonePlayerBuildProgram.Data.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MacStandalonePlayerBuildProgram.exe"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Newtonsoft.Json.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/NiceIO.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Source/Player/MacPlayer/MacPlayerEntryPoint/Info.plist"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.iOS.Extensions.Xcode.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.BuildTools.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Core.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.CSharpSupport.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.DotNet.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.NativeProgramSupport.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Stevedore.Program.exe"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.TinyProfiler2.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Toolchain.GNU.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Toolchain.LLVM.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Toolchain.VisualStudio.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Toolchain.Xcode.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Tools.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.TundraBackend.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Bee.VisualStudioSolution.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/BeeBuildProgramCommon.Data.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/BeeBuildProgramCommon.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Newtonsoft.Json.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/NiceIO.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/PlayerBuildProgramLibrary.Data.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/ScriptCompilationBuildProgram.Data.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/ScriptCompilationBuildProgram.exe"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/SharpYaml.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Api.Attributes.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Cecil.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Cecil.Mdb.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Cecil.Pdb.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Cecil.Rocks.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.IL2CPP.Api.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.IL2CPP.Bee.BuildLogic.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Linker.Api.dll"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Options.dll"
+    },
+    {
+      "File": "Library/Bee/Playerc7e03f65-inputdata.json"
+    }
+  ],
+  "StatSignatures": [
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc"
+    },
+    {
+      "File": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Source/Player/MacPlayer/MacPlayerEntryPoint/Resources/MainMenu.nib"
+    },
+    {
+      "File": "Library/Bee/Playerc7e03f65-inputdata.json"
+    },
+    {
+      "File": "Temp/StagingArea/PlayerIcon.icns"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport"
+    },
+    {
+      "Path": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/MonoBleedingEdge/etc",
+      "Recurse": 1
+    },
+    {
+      "Path": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/Source/Player/MacPlayer/MacPlayerEntryPoint/Resources/MainMenu.nib",
+      "Recurse": 1
+    },
+    {
+      "Path": "/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/Tools/BuildPipeline"
+    },
+    {
+      "Path": "Assets/StreamingAssets",
+      "Recurse": 1
+    },
+    {
+      "Path": "Library/PlayerDataCache/OSXUniversal/Data",
+      "Recurse": 1
+    },
+    {
+      "Path": "Temp/StagingArea/Build.app/Contents/Plugins"
+    },
+    {
+      "Path": "Temp/StagingArea/Data/UnitySubsystems",
+      "Recurse": 1
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".winmd",
+    ".pdb",
+    ".cpp",
+    ".cc",
+    ".c",
+    ".hpp",
+    ".h",
+    ".json",
+    ".xml",
+    ".txt",
+    ".config",
+    ".plist"
+  ],
+  "StructuredLogFileName": "Library/Bee/tundra.log.json",
+  "StateFileName": "Library/Bee/TundraBuildState.state",
+  "StateFileNameTmp": "Library/Bee/TundraBuildState.state.tmp",
+  "StateFileNameMapped": "Library/Bee/TundraBuildState.state.map",
+  "ScanCacheFileName": "Library/Bee/tundra.scancache",
+  "ScanCacheFileNameTmp": "Library/Bee/tundra.scancache.tmp",
+  "DigestCacheFileName": "Library/Bee/tundra.digestcache",
+  "DigestCacheFileNameTmp": "Library/Bee/tundra.digestcache.tmp",
+  "CachedNodeOutputDirectoryName": "Library/Bee/CachedNodeOutput",
+  "EmitDataForBeeWhy": 0,
+        "NamedNodes": {
+          "all_tundra_nodes": 0,
+          "Player": 226
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "Library/Bee/Playerc7e03f65.dag.json",
+  "PayloadsFile": "/Users/momo_utokyo/momo/unity/NLU/Library/Bee/Playerc7e03f65.dag.payloads",
+  "RelativePathToRoot": "../.."
+}
