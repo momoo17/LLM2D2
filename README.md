@@ -3,6 +3,8 @@
 ## 📝 Overview
 This project is a robot interaction system built using Unity. The main script, `Sample.cs`, enables interaction with the robot, bringing the system to life. With preloaded assets and scenes, it offers a dynamic platform to experiment with robot emotions, animations, and more.
 
+<img width="1105" alt="スクリーンショット 2024-12-24 15 04 52" src="https://github.com/user-attachments/assets/9057e51d-5d91-4d8d-8a08-50bdf9ab13b9" />
+
 ---
 
 ## 📂 Project Structure
